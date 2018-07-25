@@ -1,3 +1,3 @@
 # projects
-iOS projects in Beijing:Xcode and Apps
+iOS projects in Beijing: ruby
 
